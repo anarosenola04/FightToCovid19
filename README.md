@@ -83,7 +83,7 @@ Character:
 (flying)
 #Background
 
-file:///D:/finalexam/exam/exam/assets/images/background.png
+![background](https://user-images.githubusercontent.com/73123638/96478287-15697c00-126a-11eb-95a6-9ea46b4f3e46.png)
  
 #Foreground
 
