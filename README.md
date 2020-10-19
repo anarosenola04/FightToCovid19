@@ -87,7 +87,7 @@ Character:
  
 #Foreground
 
-file:///D:/finalexam/exam/exam/assets/images/foreground.png
+![ground](https://user-images.githubusercontent.com/73123638/96478615-72fdc880-126a-11eb-9352-8323aa40ddcb.png)
  
 
 #Demographics
