@@ -80,6 +80,8 @@ Character:
 file:///D:/finalexam/exam/exam/assets/images/background.png
  
 #Foreground
+
+file:///D:/finalexam/exam/exam/assets/images/foreground.png
  
 
 #Demographics
