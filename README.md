@@ -28,6 +28,8 @@ file:///D:/finalexam/exam/exam/assets/images/jetpack-ps.png
 file:///D:/finalexam/exam/exam/assets/images/missiles-ps.png
  
 •	Medicine character is the hero and serves the life of the main character of this game. So that, the main character still remain strong to fight.
+
+file:///D:/finalexam/exam/exam/assets/images/coins-ps.png
  
 #Story
 	The characters are happily playing their responsibility inside hospital building. This character is powerful even his weak they shows to everyone that they are strong enough to fight and protect everyone. This is serious incident that everyone feels nervous. But there are character who always remind people that we need to be brave to fight our opponent. Fight as one, heal as one!
