@@ -1,7 +1,7 @@
 
-#Phaser-Game-FIGHTOCOVID19    
-file:///D:/finalexam/exam/exam/assets/images/logo.png
+#Phaser-Game-FIGHTOCOVID19   
 
+![logo](https://user-images.githubusercontent.com/73123638/96476893-6a0bf780-1268-11eb-8018-fe5ba871e0f0.png)
       
 #Game Animation Sample Link:
 
