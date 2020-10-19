@@ -26,7 +26,10 @@
 
  
 •	Virus cartoon character are the opponents of the main character.  These character is dangerous , dangerous because the main goal of this virus cartoon is to attack the main character from succeeding in this game.
-file:///D:/finalexam/exam/exam/assets/images/missiles-ps.png
+
+![missiles-ps](https://user-images.githubusercontent.com/73123638/96477727-6dec4980-1269-11eb-8469-91c5d5fe74c9.png)
+
+
  
 •	Medicine character is the hero and serves the life of the main character of this game. So that, the main character still remain strong to fight.
 
