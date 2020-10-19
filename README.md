@@ -76,6 +76,8 @@ Character:
 •	Medicine
 (flying)
 #Background
+
+file:///D:/finalexam/exam/exam/assets/images/background.png
  
 #Foreground
  
