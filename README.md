@@ -24,6 +24,7 @@
 file:///D:/finalexam/exam/exam/assets/images/jetpack-ps.png
  
 •	Virus cartoon character are the opponents of the main character.  These character is dangerous , dangerous because the main goal of this virus cartoon is to attack the main character from succeeding in this game.
+file:///D:/finalexam/exam/exam/assets/images/missiles-ps.png
  
 •	Medicine character is the hero and serves the life of the main character of this game. So that, the main character still remain strong to fight.
  
