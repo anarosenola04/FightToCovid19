@@ -22,7 +22,8 @@
 #Characters
 •	Doctor cartoon is the main character in this game. This character is strong and fighter. Doctor caetoon can use his injection to protect his life to the virus.
 
-file:///D:/finalexam/exam/exam/assets/images/jetpack-ps.png
+![jetpack-ps](https://user-images.githubusercontent.com/73123638/96477267-dedf3180-1268-11eb-800f-f2ec3c0081e5.png)
+
  
 •	Virus cartoon character are the opponents of the main character.  These character is dangerous , dangerous because the main goal of this virus cartoon is to attack the main character from succeeding in this game.
 file:///D:/finalexam/exam/exam/assets/images/missiles-ps.png
