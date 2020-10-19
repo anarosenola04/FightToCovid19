@@ -63,7 +63,8 @@ CONTROLS
 
 FONTS
 •	(minecraftia)
-file:///D:/finalexam/exam/exam/assets/fonts/minecraftia/minecraftia.png
+![minecraftia](https://user-images.githubusercontent.com/73123638/96478869-c40dbc80-126a-11eb-839c-6ca61e1c9746.png)
+
 
 AUDIO/ MUSIC
 •	Bounce.mp3
