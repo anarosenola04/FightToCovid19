@@ -7,7 +7,6 @@
 
 https://drive.google.com/file/d/1K9jm13WGqPinZm0yGJtLqQ5jmnHh1wD_/view?usp=sharing
 
-
 #Project Description
 	This game design document describes the details for multi-platform touch based 2D fighting game with an original story and characters. The game plays simple but challenging.
 
