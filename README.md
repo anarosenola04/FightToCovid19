@@ -33,25 +33,25 @@ Characters:
  
 Story:
 
-	•The characters are happily playing their responsibility inside hospital building. This character is powerful even his weak they shows to everyone that they are strong enough to fight and protect everyone. This is serious incident that everyone feels nervous. But there are character who always remind people that we need to be brave to fight our opponent. Fight as one, heal as one!
+    •The characters are happily playing their responsibility inside hospital building. This character is powerful even his weak they shows to everyone that they are strong enough to fight and protect everyone. This is serious incident that everyone feels nervous. But there are character who always remind people that we need to be brave to fight our opponent. Fight as one, heal as one!
       
 Theme:
 
-	•This is a game about sadness and hardship. These are action and sad because the main character needs to be strong to protect his people. It is also serious incident.
+	  •This is a game about sadness and hardship. These are action and sad because the main character needs to be strong to protect his people. It is also serious incident.
 
     •Goal: help the character to fight viruses until finish line. Gameplay (short term) defeat the enemies advance to the next level.
     
     •User skills: tap on the screen, bounce, collect medicine, and avoid the viruses(enemy).
     
-	•Items and power: catch the medicine for additional point.
+	  •Items and power: catch the medicine for additional point.
     
-	•Progression and challenge: needs to control your action if you touch by enemy you die. To mitagate difficulty, the user will have to play better until in finist line, level up your character.
+	  •Progression and challenge: needs to control your action if you touch by enemy you die. To mitagate difficulty, the user will have to play better until in finist line, level up your character.
     
-	•Losing: this is the only losing condition, if you touch by enemy you die.
+	  •Losing: this is the only losing condition, if you touch by enemy you die.
 
 Art style:
 
-	•This is a 2D animation game, with highly quality 2D sprites. The character  design should resemble in adobe flash portable because the the reason is I cant install Ai illustrator.. Everything should be colorful and feel alive with high animated scenarios and layered backgrounds.
+	  •This is a 2D animation game, with highly quality 2D sprites. The character  design should resemble in adobe flash portable because the the reason is I cant install Ai illustrator.. Everything should be colorful and feel alive with high animated scenarios and layered backgrounds.
 
 Music and Sounds:
 
