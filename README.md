@@ -37,17 +37,17 @@ Story:
       
 Theme:
 
-	  •This is a game about sadness and hardship. These are action and sad because the main character needs to be strong to protect his people. It is also serious incident.
+    •This is a game about sadness and hardship. These are action and sad because the main character needs to be strong to protect his people. It is also serious incident.
 
-    •Goal: help the character to fight viruses until finish line. Gameplay (short term) defeat the enemies advance to the next level.
+        •Goal: help the character to fight viruses until finish line. Gameplay (short term) defeat the enemies advance to the next level.
     
-    •User skills: tap on the screen, bounce, collect medicine, and avoid the viruses(enemy).
+        •User skills: tap on the screen, bounce, collect medicine, and avoid the viruses(enemy).
     
-	  •Items and power: catch the medicine for additional point.
+        •Items and power: catch the medicine for additional point.
     
-	  •Progression and challenge: needs to control your action if you touch by enemy you die. To mitagate difficulty, the user will have to play better until in finist line, level up your character.
+	•Progression and challenge: needs to control your action if you touch by enemy you die. To mitagate difficulty, the user will have to play better until in finist line, level up your character.
     
-	  •Losing: this is the only losing condition, if you touch by enemy you die.
+	•Losing: this is the only losing condition, if you touch by enemy you die.
 
 Art style:
 
