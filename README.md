@@ -76,11 +76,11 @@ Fonts:
 
 AUDIO/ MUSIC:
 
-•	Bounce.mp3
-•	Death.mp3
-•	Coin.mp3 (revieve point)
-•	Flap.mp3
-•	Rocket.mp3
+•Bounce.mp3
+•Death.mp3
+•Coin.mp3 (revieve point)
+•Flap.mp3
+•Rocket.mp3
 
 Graphics:
 
