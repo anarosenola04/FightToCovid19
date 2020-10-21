@@ -18,14 +18,14 @@ Characters:
 
 ![jetpack-ps](https://user-images.githubusercontent.com/73123638/96477267-dedf3180-1268-11eb-800f-f2ec3c0081e5.png)
 
- 
-	•The Virus cartoon character are the opponents of the main character.  These character is dangerous , dangerous because the main goal of this virus cartoon is to attack the main character from succeeding in this game.
+
+    •The Virus cartoon character are the opponents of the main character.  These character is dangerous , dangerous because the main goal of this virus cartoon is to attack the main character from succeeding in this game.
 
 ![missiles-ps](https://user-images.githubusercontent.com/73123638/96477727-6dec4980-1269-11eb-8469-91c5d5fe74c9.png)
 
 
  
-      •The Medicine character is the hero and serves the life of the main character of this game. So that, the main character still remain strong to fight.
+    •The Medicine character is the hero and serves the life of the main character of this game. So that, the main character still remain strong to fight.
 
 
 ![coins-ps](https://user-images.githubusercontent.com/73123638/96477975-b60b6c00-1269-11eb-9fdc-1c840ed04701.png)
@@ -39,10 +39,14 @@ Theme:
 
 	•This is a game about sadness and hardship. These are action and sad because the main character needs to be strong to protect his people. It is also serious incident.
 
-      •Goal: help the character to fight viruses until finish line. Gameplay (short term) defeat the enemies advance to the next level.
-      •User skills: tap on the screen, bounce, collect medicine, and avoid the viruses(enemy).
+    •Goal: help the character to fight viruses until finish line. Gameplay (short term) defeat the enemies advance to the next level.
+    
+    •User skills: tap on the screen, bounce, collect medicine, and avoid the viruses(enemy).
+    
 	•Items and power: catch the medicine for additional point.
+    
 	•Progression and challenge: needs to control your action if you touch by enemy you die. To mitagate difficulty, the user will have to play better until in finist line, level up your character.
+    
 	•Losing: this is the only losing condition, if you touch by enemy you die.
 
 Art style:
@@ -61,19 +65,23 @@ Technical Description:
       •The game will be Mobile cross-platform: iOS, Android, windows 10
       
 Controls:
+
 	•(e.g pressing buttons)
 
 Fonts:
+
 	•(minecraftia)
 ![minecraftia](https://user-images.githubusercontent.com/73123638/96478869-c40dbc80-126a-11eb-839c-6ca61e1c9746.png)
 
 
 AUDIO/ MUSIC:
+
 •	Bounce.mp3
 •	Death.mp3
 •	Coin.mp3 (revieve point)
 •	Flap.mp3
 •	Rocket.mp3
+
 Graphics:
 
 Character:
@@ -83,6 +91,7 @@ Character:
 
 	•Virus cartoon
             (flying)
+            
 	•Medicine
             (flying)
             
@@ -96,9 +105,11 @@ Foreground:
  
 
 Demographics:
+
 	•Age : 21-50, sex: everyone, casual player
       
 Platforms and Monetization:
+
 	•Free android with in-game ads and paid version without ads. Free iOS with ads and paid iOS without ads. In game purchases.
 
 
